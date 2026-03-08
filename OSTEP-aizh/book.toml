@@ -1,4 +1,7 @@
 [book]
-title = "OSTEP-aizh"
-authors = ["Remzi Arpaci-Dusseau","Andrea C Arpaci-Dusseau"]
-language = "en"
+title = "OSTEP 中文版"
+language = "zh-CN"
+src = "src"
+
+[output.html]
+site-url = "/"
